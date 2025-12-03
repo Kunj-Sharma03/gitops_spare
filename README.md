@@ -1,1 +1,1 @@
-# gitops_spare
+# gitops_spared
